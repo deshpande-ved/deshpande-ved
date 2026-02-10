@@ -1,6 +1,9 @@
-## Bello 👋 I'm Ved Deshpande, a Computer Science Major with a Minor in Mathematics at Northeastern University
-# I'm currently deciding my concentration and also looking for my first co-op!
-# You can reach out at <a href="https://www.linkedin.com/in/ved-deshpande0/" target="blank">
+# Bello 👋 I'm Ved Deshpande, a Computer Science Major with a Minor in Mathematics at Northeastern University
+
+### I'm currently deciding my concentration and also looking for my first co-op!
+
+Connect with me: 
+<a href="https://www.linkedin.com/in/ved-deshpande0/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
