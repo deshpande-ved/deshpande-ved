@@ -1,6 +1,6 @@
 <h1 align="left">Bello 👋 I'm Ved Deshpande</h1>
 
-<h3 align="left">I'm a Computer Science Major with a Minor in Mathematics at Northeastern University. I'm currently deciding my concentration and looking for my first co-op!</h3>
+<h3 align="left">I'm a Computer Science Major with a Minor in Mathematics at Northeastern University. I'm concentrating in Systems and looking for my next co-op!</h3>
 
 <h3 align="left"> Check out what I'm currently listening to at <a href="https://vedsite.com/misc">vedsite.com/misc</a>, or my projects at <a href="https://vedsite.com/projects">vedsite.com/projects</a>.</h3>
 
